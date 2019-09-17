@@ -1,8 +1,8 @@
 .fondo {
-    background-color: #2ECC71
+    background-color: #2ECC71 ;
     }
     .titulo {
-    margin: 0px 435px 0px 400px ;
+    margin: 0px 550px 0px 400px ;
     color: #1F618D ;
     font-family: Broadway ;
     border-style: solid ;
@@ -29,4 +29,6 @@
     .objetivos {
       padding: 10px ;
     }
-    
+    .hola {
+        text-align: center;
+    }
