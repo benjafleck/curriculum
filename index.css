@@ -1,0 +1,32 @@
+.fondo {
+    background-color: #2ECC71
+    }
+    .titulo {
+    margin: 0px 435px 0px 400px ;
+    color: #1F618D ;
+    font-family: Broadway ;
+    border-style: solid ;
+    border-radius: 15px
+    }
+    .barradenavegacion {
+      list-style-type: none ;
+      margin: 0 ;
+      padding: 0 ;
+      float: left ;
+      display: block;
+      padding: 8px;
+      background-color: #D4AC0D
+    }
+    .quiensoy {
+      padding: 10px ;
+    }
+    .estudios {
+      padding: 10px;
+    }
+    .experiencia {
+      padding: 10px;
+    }
+    .objetivos {
+      padding: 10px ;
+    }
+    
