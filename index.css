@@ -1,34 +1,30 @@
 .fondo {
-    background-color: #2ECC71 ;
+    background-color: #ECF0F1 ;
     }
-    .titulo {
-    margin: 0px 550px 0px 400px ;
-    color: #1F618D ;
+ .titulo {
+    margin: auto ;
+    color: #17202A ;
     font-family: Broadway ;
-    border-style: solid ;
-    border-radius: 15px
+    background-color:#2ECC71 
     }
-    .barradenavegacion {
+ .barradenavegacion {
       list-style-type: none ;
       margin: 0 ;
       padding: 0 ;
       float: left ;
       display: block;
       padding: 8px;
-      background-color: #D4AC0D
     }
-    .quiensoy {
-      padding: 10px ;
-    }
-    .estudios {
-      padding: 10px;
-    }
-    .experiencia {
-      padding: 10px;
-    }
-    .objetivos {
-      padding: 10px ;
-    }
-    .hola {
+ .hola {
         text-align: center;
     }
+.piedepagina {
+  background-color:#2ECC71;
+  margin: auto;
+}
+.instagram {
+  width: 40px; height: 40px;
+  margin: auto
+}
+
+    
